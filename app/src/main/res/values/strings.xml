@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Air Monitoring Quality</string>
+    <string name="title">Air Quality\nMonitoring</string>
+    <string name="airquality">Air Quality Application\nBeta 1.0</string>
+</resources>

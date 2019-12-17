@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "50047485626",
+    "firebase_url": "https://aplikasita-6ed29.firebaseio.com",
+    "project_id": "aplikasita-6ed29",
+    "storage_bucket": "aplikasita-6ed29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50047485626:android:2b232d3a82fcedb0",
+        "android_client_info": {
+          "package_name": "com.atmospheric.aeras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50047485626-ccp0gpgq0sl1o0dcasurltjifp3anus9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atmospheric.aeras",
+            "certificate_hash": "faf9b1d88276549ae00c4f1f12d741a0cf3e8282"
+          }
+        },
+        {
+          "client_id": "50047485626-jue03tdhomqq00sq53l9cu4kthbr0m4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgLwD30MlOAkvtxI5QkMG4ao2SIG_B68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50047485626-jue03tdhomqq00sq53l9cu4kthbr0m4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50047485626:android:14bc9762a022f2128f6483",
+        "android_client_info": {
+          "package_name": "com.blogspot.mekatronika.airmonitoringquality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50047485626-k76qo16n9n410vi4rgrgpu1fnjhbjh73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogspot.mekatronika.airmonitoringquality",
+            "certificate_hash": "faf9b1d88276549ae00c4f1f12d741a0cf3e8282"
+          }
+        },
+        {
+          "client_id": "50047485626-jue03tdhomqq00sq53l9cu4kthbr0m4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgLwD30MlOAkvtxI5QkMG4ao2SIG_B68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50047485626-jue03tdhomqq00sq53l9cu4kthbr0m4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
